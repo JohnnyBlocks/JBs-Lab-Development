@@ -1,3 +1,3 @@
-## JB's Corner
+## Development Site for JB's Corner
 
-View at <http://johnnyblocks.com>
+View at <http://dev.johnnyblocks.com>
