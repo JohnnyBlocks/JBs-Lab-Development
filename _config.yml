@@ -4,7 +4,7 @@ description: "SteamDeck & Computer Gaming : Guides, Reviews, Thoughts and Storie
 keywords: "Video Games,SteamDeck,Valve,Steam,Computer Science,Data Science"
 logo: 'assets/images/logo.png'
 favicon: 'assets/icons/favicon.ico'
-baseurl: 'https://johnnyblocks.github.io/JBs-Lab-Development/'
+baseurl: ''
 disqus: 'JohnnyBlocks'
 email: 'jb@JohnnyBlocks.com'
 mailchimp-list: 'https://mailchi.mp/070704eeeaa2/corner-news-letter'
