@@ -1,29 +1,9 @@
 ---
 title: "SteamDeck"
-layout: default
+tagline: "All the hottest info for the hottest device"
+layout: topic
 permalink: /topics/steamdeck.html
-image: /assets/images/sd_logo_gradient_animated.png
-tags: [ SteamDeck ]
+image: 
+alt: SteamDeck Logo
+topic: SteamDeck
 ---
-<img src="{{ page.image }}" title="{{ page.title }}">
-<div class="container">
-    <div class="row justify-content-center">
-
-        <div class="col-md-8">
-          <h1 class="font-weight-bold title h6 text-uppercase mb-4">{{ page.title }}</h1>
-          
-          {% assign posts = site.posts | where: "tags", "SteamDeck" %}
-          {% for post in posts %}
-            {% include main-loop-card.html %}
-          {% else %}
-            There are no Articles.
-          {% endfor %} 
-
-        </div>
-        
-        <div class="col-md-4">
-          {% include sidebar-featured.html %}    
-        </div>
-        
-    </div>
-</div>

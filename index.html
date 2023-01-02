@@ -9,7 +9,7 @@ pagination:
 {% if page.url == "/" %}
     
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
-<div class="row remove-site-content-margin">
+<div class="row mt-1 remove-site-content-margin">
     
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
@@ -31,7 +31,7 @@ pagination:
             {% for category in latest_post.categories %}
                 <a class="text-dark" href="{{site.baseurl}}/{{ category | downcase }}/index.html#">{{ category }}</a>	
             {% endfor %}
-            <span class="sep"> : Topics:</span> 
+                <span class="sep"> : Topics:</span> 
             {% for tag in latest_post.tags %}
                 {% include post-tags.html%}
             {% endfor %}

@@ -1,33 +1,56 @@
 JohnnyBlocks:
+  active:         true
   name:           JohnnyBlocks
   avatar:         assets/icons/JB.png
   tagline:        "Never Be Game Over"  
   bio:            "I am JohnnyBlocks.<br />Data Scientist : Computer Scientist : Video&nbsp;Gamer : Vegan"    
   social:
     email:          
-      icon:         globe
-      url:          jb+corner@JohnnyBlocks.com
+      icon:         fa fa-envelope
+      url:          mailto://the-lab@JohnnyBlocks.com
     steam:
-      icon:         steam
+      icon:         fab fa-steam
       url:          https://s.team/p/kcv-whdv
-    #github:         https://github.com/JohnnyBlocks
-    #reddit:         https://www.reddit.com/user/YoYo-Pete
-    #discord:        https://discordapp.com/users/121071541164310529
-    #linkedin:       ''
-    #twitter:        ''
-    #telegram:       https://telegram.me/JohnnyBlocks
-    #instagram:      https://instagram.com/JohnnyBlocks_
-    #youtube:        https://www.youtube.com/@JohnnyBlocks
-    #globe:           https://JohnnyBlocks.com
+    github:
+      icon:         fab fa-github
+      url:          https://github.com/JohnnyBlocks
+    twitch:
+      icon:         fab fa-twitch
+      url:          https://www.twitch.tv/JohnnyBlocks_
+    reddit:
+      icon:         fab fa-reddit
+      url:          https://www.reddit.com/r/JohnnyBlocks
+    discord:
+      icon:         fab fa-discord
+      url:          https://discordapp.com/users/121071541164310529
+    # linkedin:
+    #   icon:       
+    #   url:
+    # twitter:
+    #   icon:       
+    #   url:    
+    telegram:
+      icon:         fab fa-telegram
+      url:          https://telegram.me/JohnnyBlocks
+    instagram:
+      icon:         fab fa-instagram
+      url:          https://instagram.com/JohnnyBlocks_
+    youtube:
+      icon:         fab fa-youtube
+      url:          https://www.youtube.com/@JohnnyBlocks
+    website:
+      icon:         fa fa-globe
+      url:          https://JohnnyBlocks.com
       
 Test:
+  active:         false
   name:           Testy McTester
   avatar:         assets/icons/beaker-4-512.png
   tagline:        "I am a test record."  
   bio:            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   social:
     email:          
-      icon:         globe
+      icon:         fa-envelope
       url:          test@JohnnyBlocks.com
     steam:
       icon:         steam

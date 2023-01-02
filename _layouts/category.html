@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="container">
+    <div class="row justify-content-center">
+
+        <div class="col-md-8">
+          <h4 class="font-weight-bold spanborder"><span>{{ page.title }}</span></h4>
+          
+          {% assign posts = site.posts | where: "categories", page.section %}
+          {% for post in posts %}
+            {% include main-loop-card.html %}
+          {% else %}
+            There are no {{page.section}}.
+          {% endfor %} 
+
+        </div>
+        
+        <div class="col-md-4">
+          {% include sidebar-featured.html %}    
+        </div>
+        
+    </div>
+</div>
