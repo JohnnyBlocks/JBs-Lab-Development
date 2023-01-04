@@ -177,10 +177,10 @@ pagination:
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
                 <h1 class="mb-3">{{post.title}}</h1>
                 {% if post.rating %}
-                <div class="mb-2 mt-2 font-weight-normal">
-                <strong>JB's Lab Rating:</strong> {% include star_rating_postbox.html %}
+                <div class="rating mb-4 d-flex align-items-center">
+                    <strong class="mr-1">JB's Lab Rating:</strong> {% include star_rating_postbox.html %}
                 </div>
-            {% endif %}
+                {% endif %}
                 <p class="mb-3 lead">
                     {{ post.excerpt | strip_html | strip_newlines }}
                 </p>
