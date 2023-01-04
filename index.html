@@ -178,10 +178,7 @@ pagination:
                 <h1 class="mb-3">{{post.title}}</h1>
                 {% if post.rating %}
                 <div class="mb-2 mt-2 font-weight-normal">
-                    <div class="row justify-content-between">
-                        <div>JB's Lab Rating:</div> 
-                        {% include star_rating_postbox.html %}
-                    </div>
+                <strong>JB's Lab Rating:</strong> {% include star_rating_postbox.html %}
                 </div>
             {% endif %}
                 <p class="mb-3 lead">
