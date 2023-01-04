@@ -47,7 +47,12 @@ layout: default
         
         
 		<div class="col-md-12 col-lg-8">
-            
+            {% if page.rating %}
+			<div class="rating mb-4 d-flex align-items-center">
+				<strong class="mr-1">Rating:</strong> {% include star_rating.html %}
+			</div>
+			{% endif %}
+
             <!-- Article -->
 			<article class="article-post">    
 			<!-- Toc if any -->
