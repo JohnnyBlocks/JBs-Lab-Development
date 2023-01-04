@@ -22,7 +22,8 @@ pagination:
     <h2 class="h4 font-weight-bold">
     <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a>
     </h2>
-    {% if latest_post.rating %}
+    {% assign post = site.posts[0] %}
+    {% if post.rating %}
         <div class="mb-2 mt-2 font-weight-normal">
         {% include star_rating_postbox.html %}
         </div>
@@ -66,7 +67,8 @@ pagination:
                     <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
                     </h2>
-                    {% if second_post.rating %}
+                    {% assign post = site.posts[1] %}
+                    {% if post.rating %}
                         <div class="mb-2 mt-2 font-weight-normal">
                         {% include star_rating_postbox.html %}
                         </div>
@@ -102,7 +104,8 @@ pagination:
                     <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
                     </h2>
-                    {% if third_post.rating %}
+                    {% assign post = site.posts[2] %}
+                    {% if post.rating %}
                         <div class="mb-2 mt-2 font-weight-normal">
                         {% include star_rating_postbox.html %}
                         </div>
@@ -138,7 +141,8 @@ pagination:
                     <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h2>
-                    {% if fourth_post.rating %}
+                    {% assign post = site.posts[3] %}
+                    {% if post.rating %}
                         <div class="mb-2 mt-2 font-weight-normal">
                         {% include star_rating_postbox.html %}
                         </div>
@@ -173,10 +177,10 @@ pagination:
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
                 <h1 class="mb-3">{{post.title}}</h1>
                 {% if post.rating %}
-                    <div class="mb-2 mt-2 font-weight-normal">
-                    {% include star_rating_postbox.html %}
-                    </div>
-                {% endif %}
+                <div class="mb-2 mt-2 font-weight-normal">
+                {% include star_rating_postbox.html %}
+                </div>
+            {% endif %}
                 <p class="mb-3 lead">
                     {{ post.excerpt | strip_html | strip_newlines }}
                 </p>
