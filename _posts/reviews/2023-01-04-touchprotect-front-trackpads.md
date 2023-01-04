@@ -4,7 +4,7 @@ category: Reviews
 title: TouchProtect SteamDeck Front TrackPads
 tags: [ 'TouchProtect','SteamDeck' ]
 permalink: /:categories/touchprotect-front-trackpads.html
-image: touchprotect-trackpads-front.jpg
+image: assets/images/touchprotect-trackpads-front.jpg
 rating: 5
 ---
 
