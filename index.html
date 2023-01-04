@@ -22,7 +22,7 @@ pagination:
     <h2 class="h4 font-weight-bold">
     <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a>
     </h2>
-    {% if post.rating %}
+    {% if latest_post.rating %}
         <div class="mb-2 mt-2 font-weight-normal">
         {% include star_rating_postbox.html %}
         </div>
@@ -66,7 +66,7 @@ pagination:
                     <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
                     </h2>
-                    {% if post.rating %}
+                    {% if second_post.rating %}
                         <div class="mb-2 mt-2 font-weight-normal">
                         {% include star_rating_postbox.html %}
                         </div>
@@ -102,7 +102,7 @@ pagination:
                     <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
                     </h2>
-                    {% if post.rating %}
+                    {% if third_post.rating %}
                         <div class="mb-2 mt-2 font-weight-normal">
                         {% include star_rating_postbox.html %}
                         </div>
@@ -138,7 +138,7 @@ pagination:
                     <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h2>
-                    {% if post.rating %}
+                    {% if fourth_post.rating %}
                         <div class="mb-2 mt-2 font-weight-normal">
                         {% include star_rating_postbox.html %}
                         </div>
