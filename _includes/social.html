@@ -1,0 +1,13 @@
+<div>        
+    <small class="d-block text-muted">
+    {% assign current_cat = page.dir | split: "/" %}
+    {% if current_cat[1] == "lab-crew"%} Contact Me:&nbsp; {% endif %}
+    {% assign i = 0 %}     
+    {% for social_list in author.social %}
+        {% assign social = social_list[1] %}
+        <a target="_blank" href="{{ social.url }}" class="text-dark"><i class="{{ social.icon }}" aria-hidden="true"></i></a> &nbsp;
+        {% if i == 0 %}<span class="excerpt">|</span> &nbsp;{% endif %}
+        {% assign i = i | plus:1 %}    
+    {% endfor %}
+    </small> 
+</div> 
