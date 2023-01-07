@@ -29,6 +29,8 @@ I think it's nice even when sitting.   I currently use 2 90 degree adapters and 
 - Date transfer:	USB 3.0/5Gbps  
 - Video Transmission:	(None)  
 
+<a href="https://www.amazon.com/gp/product/B0BNBK7BR9?smid=A20J3ITGSOMSJG&th=1&linkCode=li2&tag=johnnyblocks.com-20&linkId=1fcdf84d0353fa5d4c1825d4023698f0&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BNBK7BR9&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=johnnyblocks.com-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=johnnyblocks.com-20&language=en_US&l=li2&o=1&a=B0BNBK7BR9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ### USB-C to USB-C Video Transmission
 
 - 4K/60Hz/10bit/4:4:4
@@ -63,4 +65,3 @@ Widely work with most Type C devices. For Steam Deck, Switch, MacBook Pro, Surfa
 
 <a href="https://www.amazon.com/gp/product/B0BNBK7BR9?smid=A20J3ITGSOMSJG&th=1&linkCode=li2&tag=johnnyblocks.com-20&linkId=1fcdf84d0353fa5d4c1825d4023698f0&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BNBK7BR9&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=johnnyblocks.com-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=johnnyblocks.com-20&language=en_US&l=li2&o=1&a=B0BNBK7BR9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:90%;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=johnnyblocks.com-20&language=en_US&marketplace=amazon&region=US&placement=B0BNBK7BR9&asins=B0BNBK7BR9&linkId=19ee2a6cb42d7c9c607bd7b367b408ac&show_border=false&link_opens_in_new_window=true"></iframe>
