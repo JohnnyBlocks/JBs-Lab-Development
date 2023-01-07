@@ -15,15 +15,15 @@ We've been waiting and January 15th is the date.   Amazon will have the [JSAUX 1
 
 The Adapter comes in a pack of two.
 
-**USB-C Male to USB-C** Female Adapter
-Max Output:	20V/5A 100W
-Date transfer:	USB 3.1/10Gbps
-Video Transmission:	4K@60Hz/3D
+**USB-C Male to USB-C** Female Adapter  
+- Max Output:	20V/5A 100W  
+- Date transfer:	USB 3.1/10Gbps  
+- Video Transmission:	4K@60Hz/3D  
 
-**USB-C Male to USB-A** Female Adapter
-Max Output:	20V/3A 60W
-Date transfer:	USB 3.0/5Gbps
-Video Transmission:	(None)
+**USB-C Male to USB-A** Female Adapter  
+- Max Output:	20V/3A 60W  
+- Date transfer:	USB 3.0/5Gbps  
+- Video Transmission:	(None)  
 
 ### USB-C to USB-C Video Transmission
 
