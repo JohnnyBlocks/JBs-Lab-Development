@@ -7,13 +7,13 @@ permalink: /:categories/jsaux-180-adapter.html
 image: assets/images/jsaux-180.webp
 ---
 
-We've been waiting and January 15th is the date.   Amazon will have the [JSAUX 180 USB-C Adapter](https://amzn.to/3ZhnBit) for order. <!--more-->
+We've been waiting and January 15th is the date...Amazon will have the [JSAUX 180 USB-C Adapter](https://amzn.to/3ZhnBit) for order. No more awkward cables.<!--more-->
 
 ## Such Convenience
 
-"This USB C to USB Adapter with an innovative 180 degrees U shape design, is much more comfortable for playing games when you lie on bed while charging."-JSAUX
+"This USB C to USB Adapter with an innovative 180 degrees U shape design, is much more comfortable for playing games when you lie on bed while charging." -JSAUX
 
-The Adapter comes in a pack of two.
+### The Adapter comes in a pack of two
 
 **USB-C Male to USB-C** Female Adapter  
 - Max Output:	20V/5A 100W  
