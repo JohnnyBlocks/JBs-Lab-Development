@@ -7,7 +7,8 @@ permalink: /:categories/jsaux-180-adapter.html
 image: assets/images/jsaux-180.webp
 ---
 
-We've been waiting and January 15th is the date...Amazon will have the [JSAUX 180 USB-C Adapter](https://amzn.to/3ZhnBit) for order. No more awkward cables.<!--more-->
+We've been waiting and January 15th is the date.  
+Amazon will have the [JSAUX 180 USB-C Adapter](https://amzn.to/3ZhnBit) for order. No more awkward cables.<!--more-->
 
 ## Such Convenience
 
@@ -31,7 +32,7 @@ We've been waiting and January 15th is the date...Amazon will have the [JSAUX 18
 - 4K/60Hz/12bit/4:2:0
 - 2K/120Hz/12bit/4:4:4HDR
 
-<a style="max-width:500px;" href="https://www.amazon.com/gp/product/B0BNBK7BR9?smid=A20J3ITGSOMSJG&th=1&linkCode=li3&tag=johnnyblocks.com-20&linkId=f6cfba6d08800bad17944d8f6b310c17&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61GZfoh+29L._AC_SL1500_.jpg" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=johnnyblocks.com-20&language=en_US&l=li3&o=1&a=B0BNBK7BR9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="https://www.amazon.com/gp/product/B0BNBK7BR9?smid=A20J3ITGSOMSJG&th=1&linkCode=li3&tag=johnnyblocks.com-20&linkId=f6cfba6d08800bad17944d8f6b310c17&language=en_US&ref_=as_li_ss_il" target="_blank"><img style="max-width:500px;" border="0" src="//m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61GZfoh+29L._AC_SL1500_.jpg" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=johnnyblocks.com-20&language=en_US&l=li3&o=1&a=B0BNBK7BR9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 #### Box Text
 
