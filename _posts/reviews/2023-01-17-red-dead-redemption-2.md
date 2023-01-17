@@ -16,58 +16,17 @@ I've been playing [**Red Dead Redemption 2**](https://store.steampowered.com/app
 
 I've been playing this game mostly docked at 1080p simply because I feel it's so gorgeous looking it deserves to be seen on a larger screen.   I use the SteamDeck's native FSR 1.0 upscaling from 720 to 1080p because I feel it looks slightly nicer than the in game FSR 2.0.  I recognize that the in game FSR might net you a couple extra FPS, but I feel it muddies things a bit and I happily let the minor FPS boost go for the benefit of visual fidelity.
 
-
-
 Most of my gameplay has been in the single player campaign, but do have a [Red Dead Online](https://steamcommunity.com/sharedfiles/filedetails/?id=2901957434) character and have done some minor gameplay and feel the performance and fidelity are the same as the single player campaign (less the aspects of playing with other humans).  
 
-![Frankie - My RDO Character]({{ site.baseurl }}/assets/images/rdr2-online.jpg)  
+[![Frankie - My RDO Character]({{ site.baseurl }}/assets/images/rdr2-online.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2901957434)  
 
+My SteamDeck [settings below](#steamdeck-settings) below give me a really nice balance of enjoyable FPS and amazing visual fidelity.  Let's be real, you can play this game and get super FPS by lowering the settings, but if you are not seeing rainbows in the waterfall mists, then you are really missing out on the visual experience.
 
-I really like how these look and feel, but I'll be honest..  I'm not a heavy track pad user.   That said, I feel they only enhance the trackpad.  
+[![Masked Man]({{ site.baseurl }}/assets/images/rdr2-gp2.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2901677617)
 
-This is a sticker.. Or more like a vinyl decal.  That said it feels super high end. The material is super thin but strong feeling and it was cut exactly, and I mean exactly right to fit.    No gaps, no overlap.  Super well made.
+I rate it **Almost 5 Stars** because it crashed a couple times and it requires an online connection to play.  Since this is my review, I dont weight the online requirement very heavy as I just play at home and it doesn't effect my gameplay.
 
-I rate it **Almost 5 Stars** because
-
-
-
-
-
-[Steam Store Page](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)
-
-
-[Steam Review](https://steamcommunity.com/id/JohnnyBlocks/recommended/1174180)
-
-
-[Steam Group](https://steamcommunity.com/groups/JBs-Lab)
-
-
-
-
-
-[Amazon Standard Edition](https://amzn.to/3GNY5sF)
-
-[Amazon Ultimate Edition](https://amzn.to/3GITBUp)
-
-
-
-
-online https://steamcommunity.com/sharedfiles/filedetails/?id=2901957434
-
-gp1 https://steamcommunity.com/sharedfiles/filedetails/?id=2901677648
-
-gp2 https://steamcommunity.com/sharedfiles/filedetails/?id=2901677617
-
-gp3 https://steamcommunity.com/sharedfiles/filedetails/?id=2913936651
-
-
-<a href="https://www.amazon.com/Red-Dead-Redemption-Online-Game/dp/B082JYRDWP?crid=390ZQ2XAAXW4L&keywords=red%2Bdead%2Bredemption%2B2%2Bpc&qid=1673961386&sprefix=red%2Bdead%2Bredemption%2B2%2Bp%2Caps%2C112&sr=8-1&th=1&linkCode=li2&tag=johnnyblocks.com-20&linkId=f25e92ca0813fb77ae9097c5075d6745&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082JYRDWP&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=johnnyblocks.com-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=johnnyblocks.com-20&language=en_US&l=li2&o=1&a=B082JYRDWP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-### Box Text
-
-- From the creators of Grand Theft Auto V and Red Dead Redemption, Red Dead Redemption 2 is an epic tale of life in America at the dawn of the modern age.
-- America, 1899. The end of the wild west era has begun as lawmen hunt down the last remaining outlaw gangs
-- Winner of over 175 Game of the Year Awards
+[![Pondering in the Early Morning]({{ site.baseurl }}/assets/images/rdr2-gp3.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2913936651)
 
 ### ProtonDB
 
@@ -83,66 +42,70 @@ Red Dead Redemption 2 currently has a [ProtonDB Rating](https://www.protondb.com
 
 #### SteamDeck Settings
 
-My personal settings. I play mostly docked at 1080 but also play on deck. When I do I just change the resolution from 720 to 800.
+I play mostly docked at 1080 but also play on deck. When I do I just change the resolution from 720 to 800.
 
-SteamDeck Settings
+**SteamDeck Settings**: Configuration for SteamDeck in GameMode
 
-Go into the SteamDeck Settings (left menu) and set the resolution to your display. Mine is 1920x1080@120. This is the video signal resolution the deck will generate.
+- Go into the SteamDeck Settings (left menu) and set the resolution to your display. Mine is 1920x1080@120. This is the video signal resolution the deck will generate.
+- Go into the RDR2 SteamDeck Settings (gear icon, then settings): General - Game Resolution: Native
 
-Go into the RDR2 SteamDeck Settings (gear icon, then settings): General - Game Resolution: Native
+**Change the Scaler**: Use the Native FSR
 
-Change the Scaler
+- When in Game, press the (...) button to bring the left menu up.
+- Go to the Performance Menu (the one that is a battery)
+- Change 'Scaling Filter' to FSR.
+- Select a value for FSR Sharpness. (I'm using 5 for RDR2)
 
-When in Game, press the (...) button to bring the left menu up.
+**In Game Settings**: The actual 'In Game' settings of RDR2
 
-Go to the Performance Menu (the one that is a battery)
+I'm no expert but I went for a higher fidelity choice, you could prob go all medium settings for some extra frames but then you don't get all the rainbows in the mist and the extra pretty stuff.
 
-Change 'Scaling Filter' to FSR.
-
-Select a value for FSR Sharpness. (I'm using 5 for RDR2)
-
-In Game Settings
-
-I'm no expert but I went for a higher fidelity choice, you could prob go all medium settings for some extra frames but then you don't get all the rainbows in the mist and the extra pretty stuff. Resolution 1280x720 This is the frame size it will actually render.
-
+- Resolution 1280x720 This is the frame size it will actually render.
 This will make the game render at 720p and then the deck will upscale it to 1080p.
+- Refresh Rate: 120 (my monitor)
+- Full Screen
+- VSync: On
+- Trippel Buffering: On
 
-Resolution 1280x720 This is the frame size it will actually render.This will make the game render at 720p and then the deck will upscale it to 1080p.
+**Preset:** **Custom**
 
-Refresh Rate: 120 (my monitor)
+- Texture Quality: Ultra
+- Anisotropic Filtering: 16x
+- Lighting Quality: High
+- Global Illumination Quality: High
+- Shadow Quality: High
+- Far Shadow Quality: High
+- Screen Space Ambient Occlusion High
+- Reflection Quality: Medium
+- Mirror Quality: Medium
+- Water Quality: Medium (This could probably be High)
+- Volumetrics Quality: High
+- Particle Quality: High
+- AMD FRS 2.0: Off
+- TAA: Medium
 
-Full Screen
+##### Where to Buy
 
-VSync On
+I recommend purchasing from Steam directly as that makes everything easiest on SteamDeck.  I'm not sure about this game, but technical bits like shadercaches have me recomending acquiring games directly from Steam.
 
-Trippel Buffering: On
+- [Steam Store Page](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)
 
-Preset: Custom
+- [RockStar Direct](https://www.rockstargames.com/reddeadredemption2/order)
 
-Texture Quality: Ultra
+- [Amazon Standard Edition](https://amzn.to/3GNY5sF)[^note]
 
-Anisotropic Filtering: 16x
+- [Amazon Ultimate Edition](https://amzn.to/3GITBUp)[^note]
 
-Lighting Quality: High
+<a href="https://www.amazon.com/Red-Dead-Redemption-Online-Game/dp/B082JYRDWP?crid=390ZQ2XAAXW4L&keywords=red%2Bdead%2Bredemption%2B2%2Bpc&qid=1673961386&sprefix=red%2Bdead%2Bredemption%2B2%2Bp%2Caps%2C112&sr=8-1&th=1&linkCode=li2&tag=johnnyblocks.com-20&linkId=f25e92ca0813fb77ae9097c5075d6745&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082JYRDWP&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=johnnyblocks.com-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=johnnyblocks.com-20&language=en_US&l=li2&o=1&a=B082JYRDWP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-Global Illumination Quality: High
+**Box** **Text**
 
-Shadow Quality: High
+- From the creators of Grand Theft Auto V and Red Dead Redemption, Red Dead Redemption 2 is an epic tale of life in America at the dawn of the modern age.
+- America, 1899. The end of the wild west era has begun as lawmen hunt down the last remaining outlaw gangs
+- Winner of over 175 Game of the Year Awards
 
-Far Shadow Quality: Hight
+[^note]Disclaimer: Amazon links are my affiliate links to keep the lights on for JB's Lab.
 
-Screen Space Ambient Occlusion High
+###### Join Us
 
-Reflection Quality: Medium
-
-Mirror Quality: Medium
-
-Water Quality: Medium
-
-Volumetrics Quality: High
-
-Particle Quality: High
-
-AMD FRS 2.0 Off
-
-TAA Medium
+Join me on [Steam](https://steamcommunity.com/groups/JBs-Lab) or [Reddit](https://reddit.com/JohnnyBlocks) and check out my [Steam Review of RDR2](https://steamcommunity.com/id/JohnnyBlocks/recommended/1174180).  Likewise click on any of the screen shots above to view them on my profile.
