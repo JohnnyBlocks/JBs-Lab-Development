@@ -24,11 +24,9 @@ Most of my gameplay has been in the single player campaign, but do have a [Red D
 
 My SteamDeck [settings below](#steamdeck-settings) below give me a really nice balance of enjoyable FPS and amazing visual fidelity.  Let's be real, you can play this game and get super FPS by lowering the settings, but if you are not seeing rainbows in the waterfall mists, then you are really missing out on the visual experience.
 
-[![Masked Man]({{ site.baseurl }}/assets/images/rdr2-gp2.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2901677617)
-
 I rate it **Almost 5 Stars** because it crashed a couple times and it requires an online connection to play.  Since this is my review, I dont weight the online requirement very heavy as I just play at home and it doesn't effect my gameplay.
 
-[![Pondering in the Early Morning]({{ site.baseurl }}/assets/images/rdr2-gp3.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2913936651)
+[![Masked Man]({{ site.baseurl }}/assets/images/rdr2-gp2.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2901677617)[![Pondering in the Early Morning]({{ site.baseurl }}/assets/images/rdr2-gp3.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2913936651)
 
 ### ProtonDB
 
@@ -44,10 +42,10 @@ Red Dead Redemption 2 currently has a [ProtonDB Rating](https://www.protondb.com
 
 #### SteamDeck Settings
 
-I play mostly docked at 1080 but also play on deck.
+I play mostly docked at 1080 but also play on deck. \
 When I do I just change the resolution from 720 to 800.
 
-I am also using [CryoByte33 Utilities](https://github.com/CryoByte33/steam-deck-utilities) on my SteamDeck (using recommended settings).  I am a fan of his work and he has a nice YouTube channel that goes deep into [game](https://youtu.be/epmYVEn97ac) and [deck](https://youtu.be/od9_a1QQQns) settings.
+I am also using [CryoByte33 Utilities](https://github.com/CryoByte33/steam-deck-utilities) on my SteamDeck (using recommended settings).  I am a fan of his work and he has a nice [YouTube Channel](https://www.youtube.com/@cryobyte33) that goes deep into [game](https://youtu.be/epmYVEn97ac) and [deck](https://youtu.be/od9_a1QQQns) settings.
 
 **SteamDeck Settings**: Configuration for SteamDeck in GameMode
 
@@ -112,5 +110,5 @@ I recommend purchasing from Steam directly as that makes everything easiest on S
 
 ###### Join Me
 
-Join me on [Steam](https://steamcommunity.com/groups/JBs-Lab) or [Reddit](https://reddit.com/JohnnyBlocks) and check out my [Steam Review of RDR2](https://steamcommunity.com/id/JohnnyBlocks/recommended/1174180).
+Join me on [Steam](https://steamcommunity.com/groups/JBs-Lab) or [Reddit](https://reddit.com/r/JohnnyBlocks) and check out my [Steam Review of RDR2](https://steamcommunity.com/id/JohnnyBlocks/recommended/1174180).
 Likewise click on any of the screen shots above to view them at my steam profile.
