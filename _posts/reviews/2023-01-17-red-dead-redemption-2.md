@@ -10,6 +10,8 @@ rating: 4.75
 
 I've been playing [**Red Dead Redemption 2**](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/) on my SteamDeck and it's been a really great exerience.<!--more-->  For a game that is over 3 years old, I will spare you a review of the actual game.  We all know it's a well made game that is very loved by the community.  This is a review of the game on my SteamDeck.
 
+[Skip to My Recommended Settings](#steamdeck-settings)
+
 [![Amazing World Building]({{ site.baseurl }}/assets/images/rdr2-gp1.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2901677648)
 
 ## SteamDeck Experience
