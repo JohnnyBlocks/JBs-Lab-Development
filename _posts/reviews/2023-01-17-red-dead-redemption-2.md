@@ -47,7 +47,6 @@ When I do I just change the resolution from 720 to 800.
 
 I am also using [CryoByte33 Utilities](https://github.com/CryoByte33/steam-deck-utilities) on my SteamDeck (using recommended settings).  I am a fan of his work and he has a nice YouTube channel that goes deep into [game](https://youtu.be/epmYVEn97ac) and [deck](https://youtu.be/od9_a1QQQns) settings.
 
-
 **SteamDeck Settings**: Configuration for SteamDeck in GameMode
 
 - Get [CryoByte33 Utilities](https://github.com/CryoByte33/steam-deck-utilities). Use the recommended settings. (Not required but I recommend it as it does a couple nice things to the deck/os)
