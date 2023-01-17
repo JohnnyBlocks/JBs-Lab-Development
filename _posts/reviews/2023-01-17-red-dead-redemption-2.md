@@ -6,7 +6,6 @@ tags: [ 'GameReview','RDR2','SteamDeck' ]
 permalink: /:categories/red-dead-redemption-2.html
 image: assets/images/rdr2-1.jpg
 rating: 4.75
-toc: true
 ---
 
 I've been playing [**Red Dead Redemption 2**](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/) on my SteamDeck and it's been a really great exerience.<!--more-->  For a game that is over 3 years old, I will spare you a review of the actual game.  We all know it's a well made game that is very loved by the community.  This is a review of the game on my SteamDeck.
@@ -57,6 +56,8 @@ I play mostly docked at 1080 but also play on deck. When I do I just change the 
 - Change 'Scaling Filter' to FSR.
 - Select a value for FSR Sharpness. (I'm using 5 for RDR2)
 
+As I said above, I prefer the visual differences the system FSR gives over the FSR implementation in the game itself.  The tradeoff is a couple of FPS, but I feel FSR 2.0 looks a tad bit muddy in comparison.
+
 **In Game Settings**: The actual 'In Game' settings of RDR2
 
 I'm no expert but I went for a higher fidelity choice, you could prob go all medium settings for some extra frames but then you don't get all the rainbows in the mist and the extra pretty stuff.
@@ -90,12 +91,10 @@ This will make the game render at 720p and then the deck will upscale it to 1080
 I recommend purchasing from Steam directly as that makes everything easiest on SteamDeck.  I'm not sure about this game, but technical bits like shadercaches have me recomending acquiring games directly from Steam.
 
 - [Steam Store Page](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)
-
 - [RockStar Direct](https://www.rockstargames.com/reddeadredemption2/order)
-
-- [Amazon Standard Edition](https://amzn.to/3GNY5sF)[^note]
-
-- [Amazon Ultimate Edition](https://amzn.to/3GITBUp)[^note]
+- [Amazon Standard Edition](https://amzn.to/3GNY5sF)
+- [Amazon Ultimate Edition](https://amzn.to/3GITBUp)
+<sup>Disclaimer: Amazon links are my affiliate links to keep the lights on for JB's Lab.</sup>
 
 <a href="https://www.amazon.com/Red-Dead-Redemption-Online-Game/dp/B082JYRDWP?crid=390ZQ2XAAXW4L&keywords=red%2Bdead%2Bredemption%2B2%2Bpc&qid=1673961386&sprefix=red%2Bdead%2Bredemption%2B2%2Bp%2Caps%2C112&sr=8-1&th=1&linkCode=li2&tag=johnnyblocks.com-20&linkId=f25e92ca0813fb77ae9097c5075d6745&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082JYRDWP&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=johnnyblocks.com-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=johnnyblocks.com-20&language=en_US&l=li2&o=1&a=B082JYRDWP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -105,8 +104,7 @@ I recommend purchasing from Steam directly as that makes everything easiest on S
 - America, 1899. The end of the wild west era has begun as lawmen hunt down the last remaining outlaw gangs
 - Winner of over 175 Game of the Year Awards
 
-[^note]Disclaimer: Amazon links are my affiliate links to keep the lights on for JB's Lab.
+###### Join Me
 
-###### Join Us
-
-Join me on [Steam](https://steamcommunity.com/groups/JBs-Lab) or [Reddit](https://reddit.com/JohnnyBlocks) and check out my [Steam Review of RDR2](https://steamcommunity.com/id/JohnnyBlocks/recommended/1174180).  Likewise click on any of the screen shots above to view them on my profile.
+Join me on [Steam](https://steamcommunity.com/groups/JBs-Lab) or [Reddit](https://reddit.com/JohnnyBlocks) and check out my [Steam Review of RDR2](https://steamcommunity.com/id/JohnnyBlocks/recommended/1174180).
+Likewise click on any of the screen shots above to view them at my steam profile.
