@@ -25,7 +25,8 @@ My SteamDeck [settings below](#steamdeck-settings) below give me a really nice b
 
 I rate it **Almost 5 Stars** because it crashed a couple times and it requires an online connection to play.  Since this is my review, I dont weight the online requirement very heavy as I just play at home and it doesn't effect my gameplay.
 
-[![Masked Man]({{ site.baseurl }}/assets/images/rdr2-gp2.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2901677617){:width="50%"}[![Pondering in the Early Morning]({{ site.baseurl }}/assets/images/rdr2-gp3.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2913936651){:width="50%"}
+[<img src='{{ site.baseurl }}/assets/images/rdr2-gp2.jpg' width='50%'>](https://steamcommunity.com/sharedfiles/filedetails/?id=2901677617)
+[<img src='{{ site.baseurl }}/assets/images/rdr2-gp3.jpg' width='50%'>](https://steamcommunity.com/sharedfiles/filedetails/?id=2913936651)
 
 ### ProtonDB
 
