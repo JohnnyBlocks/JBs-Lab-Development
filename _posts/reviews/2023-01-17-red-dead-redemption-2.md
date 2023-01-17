@@ -45,8 +45,12 @@ Red Dead Redemption 2 currently has a [ProtonDB Rating](https://www.protondb.com
 I play mostly docked at 1080 but also play on deck.
 When I do I just change the resolution from 720 to 800.
 
+I am also using [CryoByte33 Utilities](https://github.com/CryoByte33/steam-deck-utilities) on my SteamDeck (using recommended settings).  I am a fan of his work and he has a nice YouTube channel that goes deep into [game](https://youtu.be/epmYVEn97ac) and [deck](https://youtu.be/od9_a1QQQns) settings.
+
+
 **SteamDeck Settings**: Configuration for SteamDeck in GameMode
 
+- Get [CryoByte33 Utilities](https://github.com/CryoByte33/steam-deck-utilities). Use the recommended settings. (Not required but I recommend it as it does a couple nice things to the deck/os)
 - Go into the SteamDeck Settings (left menu) and set the resolution to your display. Mine is 1920x1080@120. This is the video signal resolution the deck will generate.
 - Go into the RDR2 SteamDeck Settings (gear icon, then settings): General - Game Resolution: Native
 
@@ -91,12 +95,13 @@ This will make the game render at 720p and then the deck will upscale it to 1080
 
 I recommend purchasing from Steam directly as that makes everything easiest on SteamDeck.  I'm not sure about this game, but technical bits like shadercaches have me recomending acquiring games directly from Steam.
 
+<a href="https://www.amazon.com/Red-Dead-Redemption-Online-Game/dp/B082JYRDWP?crid=390ZQ2XAAXW4L&keywords=red%2Bdead%2Bredemption%2B2%2Bpc&qid=1673961386&sprefix=red%2Bdead%2Bredemption%2B2%2Bp%2Caps%2C112&sr=8-1&th=1&linkCode=li2&tag=johnnyblocks.com-20&linkId=f25e92ca0813fb77ae9097c5075d6745&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082JYRDWP&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=johnnyblocks.com-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=johnnyblocks.com-20&language=en_US&l=li2&o=1&a=B082JYRDWP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 - [Steam Store Page](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/)
 - [RockStar Direct](https://www.rockstargames.com/reddeadredemption2/order)
 - [Amazon Standard Edition](https://amzn.to/3GNY5sF)
 - [Amazon Ultimate Edition](https://amzn.to/3GITBUp)
 
-<a href="https://www.amazon.com/Red-Dead-Redemption-Online-Game/dp/B082JYRDWP?crid=390ZQ2XAAXW4L&keywords=red%2Bdead%2Bredemption%2B2%2Bpc&qid=1673961386&sprefix=red%2Bdead%2Bredemption%2B2%2Bp%2Caps%2C112&sr=8-1&th=1&linkCode=li2&tag=johnnyblocks.com-20&linkId=f25e92ca0813fb77ae9097c5075d6745&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B082JYRDWP&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=johnnyblocks.com-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=johnnyblocks.com-20&language=en_US&l=li2&o=1&a=B082JYRDWP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <sup>Disclaimer: Amazon links are my affiliate links to keep the lights on for JB's Lab.</sup>
 
 **Box** **Text**
