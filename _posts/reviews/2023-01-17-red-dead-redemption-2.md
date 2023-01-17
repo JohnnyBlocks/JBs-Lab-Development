@@ -6,6 +6,7 @@ tags: [ 'GameReview','RDR2','SteamDeck' ]
 permalink: /:categories/red-dead-redemption-2.html
 image: assets/images/rdr2-1.jpg
 rating: 4.75
+toc: true
 ---
 
 I've been playing [**Red Dead Redemption 2**](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/) on my SteamDeck and it's been a really great exerience.<!--more-->  For a game that is over 3 years old, I will spare you a review of the actual game.  We all know it's a well made game that is very loved by the community.  This is a review of the game on my SteamDeck.
