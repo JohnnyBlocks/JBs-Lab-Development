@@ -8,8 +8,7 @@ image: assets/images/rdr2-1.jpg
 rating: 4.75
 ---
 
-I've been playing [**Red Dead Redemption 2**](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/) on my SteamDeck and it's been a really great exerience.<!--more-->  For a game that is over 3 years old, I will spare you a review of the actual game.  We all know it's a well made game that is very loved by the community.  This is a review of the game on my SteamDeck.
-
+I've been playing [**Red Dead Redemption 2**](https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/) on my SteamDeck and it's been a really great exerience.<!--more-->  For a game that is over 3 years old, I will spare you a review of the actual game.  We all know it's a well made game that is very loved by the community.  This is a review of the game on my SteamDeck. \
 [Skip to My Recommended Settings](#steamdeck-settings)
 
 [![Amazing World Building]({{ site.baseurl }}/assets/images/rdr2-gp1.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2901677648)
@@ -26,7 +25,7 @@ My SteamDeck [settings below](#steamdeck-settings) below give me a really nice b
 
 I rate it **Almost 5 Stars** because it crashed a couple times and it requires an online connection to play.  Since this is my review, I dont weight the online requirement very heavy as I just play at home and it doesn't effect my gameplay.
 
-[![Masked Man]({{ site.baseurl }}/assets/images/rdr2-gp2.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2901677617)[![Pondering in the Early Morning]({{ site.baseurl }}/assets/images/rdr2-gp3.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2913936651)
+[![Masked Man]({{ site.baseurl }}/assets/images/rdr2-gp2.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2901677617){:width="50%"}[![Pondering in the Early Morning]({{ site.baseurl }}/assets/images/rdr2-gp3.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2913936651){:width="50%"}
 
 ### ProtonDB
 
