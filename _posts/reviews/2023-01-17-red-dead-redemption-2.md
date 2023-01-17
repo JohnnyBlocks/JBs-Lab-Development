@@ -65,7 +65,7 @@ As I said above, I prefer the visual differences the system FSR gives over the F
 
 I'm no expert but I went for a higher fidelity choice, you could prob go all medium settings for some extra frames but then you don't get all the rainbows in the mist and the extra pretty stuff.
 
-- Resolution 1280x720 This is the frame size it will actually render.
+- Resolution 1280x720 This is the frame size it will actually render. \
 This will make the game render at 720p and then the deck will upscale it to 1080p.
 - Refresh Rate: 120 (my monitor)
 - Full Screen
